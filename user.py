@@ -3,8 +3,8 @@
 
 import os
 
-username = "user" 
-password = "a" 
+username = "user" #@param {type:"string"}
+password = "a" #@param {type:"string"}
 
 print("Creating User and Setting it up")
 
